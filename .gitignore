@@ -1,0 +1,12 @@
+# Dacon competition data and anything derived from it are never committed
+data/
+*.zip
+*.csv
+submission*
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
